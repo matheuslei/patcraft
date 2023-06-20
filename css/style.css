@@ -16,6 +16,10 @@
 
 /* Patinetes */
 @import "./patinetes/patinetes-lista.css";
+@import "./patinetes/patinetes.css";
 
 /* seguros */
 @import "./seguros/seguros.css";
+
+/* Termos */
+@import "./termos/termos.css";
