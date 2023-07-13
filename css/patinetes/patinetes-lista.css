@@ -6,6 +6,7 @@
 .patinetes-lista h2 {
   margin-bottom: 40px;
 }
+
 .patinetes-lista ul {
   display: flex;
   gap: 40px;
@@ -15,6 +16,11 @@
   margin-right: auto;
   overflow-x: auto;
 }
+
+#patinete .patinetes-lista ul {
+  padding: 0px 0px 20px 0px;
+}
+
 .patinetes-lista li {
   flex: 1;
   min-width: 280px;
@@ -26,8 +32,6 @@
 
 .patinetes-lista img {
   margin-bottom: 16px;
-  height: 360px;
-  width: 400px;
 }
 
 .patinetes-lista h3 {
@@ -58,7 +62,6 @@
   .patinetes-lista {
     padding-bottom: 60px;
   }
-
   .patinetes-lista ul {
     gap: 20px;
   }

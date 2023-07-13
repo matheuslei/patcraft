@@ -20,7 +20,7 @@
 }
 
 .botao:hover {
-  background: linear-gradient(#00ff29, #0ab51b);
+  background: linear-gradient(#0ab51b, #0ab51b);
 }
 
 .botao.secundario {
